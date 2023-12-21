@@ -1,0 +1,1 @@
+Esse projeto foi constituido em Python, com conceitos de POO, ao roda-lo é importante que você comece sua execução a partir do arquivo "menu_principal.py", pois somente ele fará a ponte entre todos os arquivos, assim você ira conseguir acessar todas as outras classes e análisar 100% do app.
